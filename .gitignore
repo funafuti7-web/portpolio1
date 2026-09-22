@@ -1,0 +1,17 @@
+# 이클립스 및 자바 관련 임시 파일 제외
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+*.factorypath
+.classpath
+.project
+.settings/
+bin/
+
+# OS 임시 파일 및 로그 제외
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
